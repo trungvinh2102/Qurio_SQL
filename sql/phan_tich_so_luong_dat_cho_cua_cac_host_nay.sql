@@ -13,4 +13,8 @@ GROUP BY
   P."fullName"
 ORDER BY
   average_revenue_per_booking ASC
-LIMIT 5;
+LIMIT 100;
+
+
+
+
